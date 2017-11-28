@@ -89,12 +89,14 @@
             <objects>
                 <viewController storyboardIdentifier="TopDetailViewControllerID" id="E3i-1c-Es2" customClass="TopDetailViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="hvB-Zb-qfW">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="283"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="560"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
                         <viewLayoutGuide key="safeArea" id="ybj-4m-tJ8"/>
                     </view>
                     <navigationItem key="navigationItem" id="syz-rc-Pfr"/>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="375" height="560"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kL2-sb-Lqr" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
